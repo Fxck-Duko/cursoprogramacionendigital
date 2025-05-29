@@ -7,3 +7,12 @@ Este sitio contiene lo siguiente
 - Pagina de contacto : contiene un titulo, formulario de contacto y google maps.
 
 > Que es esto?¿ loca perdida, es lo mejor que puede suceder en tu vida, una cosa increible, impresionante, espectacular viejo, algo que no podras creer nunca que estas apreciando, ya que esto es muy poco probable que suceda, es una total locura !amigo¡
+
+
+* SERVICIOS
+    * Fotografia.
+    * Diseño Web.
+        * Landing page.
+        * Sitio Web Informativo.
+        * tienda Online.
+        
