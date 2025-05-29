@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root{
+    --main-color:#0aa4d3;
+    --primary-color: #c40a0a;
+    --second-color: #000000;
+}
+body{
+    background-color: rgb(255, 255, 206);
+    background-image:url(ttps://previews.123rf.com/images/chekat/chekat1512/chekat151200356/49473332-vector-sin-patrón-de-juguetes-para-niños-sobre-un-fondo-amarillo-pintado-a-mano.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:"Lora", serif;;
+    font-weight: 800;
+    color:black;
+}
+header{
+    background-color:  #62a8bd;
+    height: 100px;  
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.Menu{
+    color: #0aa4d3;
+    font-size: 20px;
+    list-style: none;
+    padding-top: 1px ;
+}
+.Menu li{
+    display: inline-block;
+    padding: 20px;
+    padding-right: 100px;
+}
+.Menu li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.Menu li a:hover{
+    color: rgb(8, 255, 41);
+}
+.logo-header{
+    width: 180px;
+    height: 100px;
+    padding-left: 15px;
+}
+
+
+.img-monopoly{
+    padding-top: 100px;
+    width: 400px;
+    padding-left: 10px;
+}
+.Monopoly{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Monopoly h1{
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+    padding-left: 40px;
+    text-align:justify ;
+}
+.Monopoly p{
+    color:  rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 20px;
+    text-align:justify;
+    margin:0px 200px 0px 20px;
+}
+.Monopoly ul{
+    color:  rgb(0, 0, 0);
+    font-size: 18px;
+}
+.Monopoly li{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.img-Ludo{
+    width: 400px;
+}
+.Ludo{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Ludo h2{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    padding-left: 50px;
+}
+.Ludo p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    text-align:justify;
+    margin:0px 200px 0px 20px;
+}
+.Ludo ul{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+.Ludo li{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.img-Ajedrez{
+    width: 400px;
+}
+.Ajedrez{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Ajedrez h3{
+    font-size: 60px;
+    padding-left: 50px;
+    color:rgb(0, 0, 0);
+}
+.Ajedrez p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    text-align:justify;
+    margin:0px 200px 0px 20px;
+}
+.Ajedrez ul{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+.Ajedrez li{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.img-Poker{
+    width: 400px;
+}
+.Poker{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Poker h4{
+    font-size: 60px;
+    padding-left: 50px;
+    color:rgb(0, 0, 0);
+}
+.Poker p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    text-align:justify;
+    margin:0px 200px 0px 20px;
+}
+.Poker ul{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+.Poker li{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+footer{
+    background-color:  #4e8292;
+    color:white;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-column{
+    flex: 1;
+    margin:0 10px;
+}
+.footer-column h{
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+ul li{
+    margin-bottom: 10px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    transition: .3s ease;
+}
+ul li a:hover{
+    color: #ccc;
+}
