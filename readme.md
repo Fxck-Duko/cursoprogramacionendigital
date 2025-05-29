@@ -6,4 +6,4 @@ Este sitio contiene lo siguiente
 - Pagina del team: Donde se muestra la profesion, foto y datos del contacto.
 - Pagina de contacto : contiene un titulo, formulario de contacto y google maps.
 
-> que es esto?¿ loca perdida, es lo mejor que puede suceder en tu vida, una cosa increible, impresionante, espectacular viejo, algo que no podras creer nunca que estas apreciando, ya que esto es muy poco probable que suceda, es una total locura !amigo¡
+> Que es esto?¿ loca perdida, es lo mejor que puede suceder en tu vida, una cosa increible, impresionante, espectacular viejo, algo que no podras creer nunca que estas apreciando, ya que esto es muy poco probable que suceda, es una total locura !amigo¡
